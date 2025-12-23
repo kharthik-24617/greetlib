@@ -1,0 +1,16 @@
+{
+    "version": 4,
+    "configurePresets": [
+        {
+            "name": "default",
+            "binaryDir": "build"
+        },
+        {
+            "name": "filesInstall",
+            "binaryDir": "filesDirBuild",
+            "cacheVariables": {
+                "CMAKE_INSTALL_PREFIX": "/home/kharthikraj/Desktop/files"
+            }
+        }
+    ]
+}

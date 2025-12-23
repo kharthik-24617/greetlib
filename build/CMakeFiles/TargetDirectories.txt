@@ -1,0 +1,7 @@
+/home/kharthikraj/Documents/cmakeinstalltest/build/CMakeFiles/myspeciallib.dir
+/home/kharthikraj/Documents/cmakeinstalltest/build/CMakeFiles/edit_cache.dir
+/home/kharthikraj/Documents/cmakeinstalltest/build/CMakeFiles/rebuild_cache.dir
+/home/kharthikraj/Documents/cmakeinstalltest/build/CMakeFiles/list_install_components.dir
+/home/kharthikraj/Documents/cmakeinstalltest/build/CMakeFiles/install.dir
+/home/kharthikraj/Documents/cmakeinstalltest/build/CMakeFiles/install/local.dir
+/home/kharthikraj/Documents/cmakeinstalltest/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,4 @@
+/usr/local/lib/libmyspeciallib.a
+/usr/local/include/mylibgreet.h
+/usr/local/share/myspeciallib-config.cmake
+/usr/local/share/myspeciallib-config-noconfig.cmake
